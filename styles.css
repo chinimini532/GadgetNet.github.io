@@ -83,38 +83,7 @@ nav a:hover {
     height: 600px;
 }
 /* Social Media Section Inside Home Text */
-.social-media {
-    margin-top: 20px;
-    font-size: 1.2em;
-    color: #00f8a6; /* Matches other accent colors */
-}
 
-.social-media p {
-    margin: 0;
-}
-
-.instagram-link {
-    color: #00f8a6;
-    text-decoration: none;
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    font-size: 1.2em;
-}
-
-.instagram-link img {
-    width: 42px;
-    height: 42px;
-    max-width: 42px;
-    max-height: 42px;
-    vertical-align: middle;
-}
-
-}
-
-.instagram-link:hover {
-    color: #00e89e;
-}
 /* Contact Details */
 .contact-details {
     margin: 40px 0;
