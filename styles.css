@@ -103,9 +103,13 @@ nav a:hover {
 }
 
 .instagram-link img {
-    width: 5px;
-    height: 5px;
+    width: 24px;
+    height: 24px;
+    max-width: 24px;
+    max-height: 24px;
     vertical-align: middle;
+}
+
 }
 
 .instagram-link:hover {
